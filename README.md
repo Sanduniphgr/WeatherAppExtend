@@ -10,7 +10,8 @@ Features</p>
 
 <h2>Screenshots</h2>
 
-<img src="./sreenshot.jpg" alt="screenshot" weidth="300px">
+<img src="./screenshot.jpeg" alt="screenshot" width="200px">
+
 
 <h2>Requirements</h2>
   
